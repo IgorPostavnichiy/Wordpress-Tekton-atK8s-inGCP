@@ -6,7 +6,7 @@ on:
       - 'terraform_gcp/**'
       - '.github/workflows/TerraformGCP.yml'
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 env:
