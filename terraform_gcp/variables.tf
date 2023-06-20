@@ -13,11 +13,11 @@ variable "zone_prj" {
 }
 
 variable "sa_name" {
-  default = "my-test-account-name" # Replace with you name for tfstate. +
+  default = "my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com" # Replace with you name for tfstate. +
 }
 
 variable "sa_account" {
-  default = "my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com" # Replace with you service account. +
+  default = "my-test-account" # Replace with you service account. +
 }
 
 variable "domain" {

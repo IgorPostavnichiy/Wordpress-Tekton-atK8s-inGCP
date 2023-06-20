@@ -12,7 +12,7 @@ on:
 env:
   GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
   BUCKET_NAME: igorbucketgcp # Replace with you bucket name. +
-  SA_NAME: My test account name  # Replace with you service account. +
+  SA_NAME: my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com  # Replace with you service account. +
   CLUSTER_NAME: igorpostspout-clusterk8s # Replace with you cluster name (you_cluster_name-clusterk8s). +
   REGION: us-central1 # Replace with you region. -
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
