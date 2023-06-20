@@ -13,7 +13,7 @@ variable "zone_prj" {
 }
 
 variable "sa_name" {
-  default = "sa-tfstate" # Replace with you name for tfstate. +
+  default = "my-test-account-name" # Replace with you name for tfstate. +
 }
 
 variable "sa_account" {
