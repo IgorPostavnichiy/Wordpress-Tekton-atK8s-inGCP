@@ -13,7 +13,7 @@ variable "zone_prj" {
 }
 
 variable "sa_name" {
-  default = "igorbucketgcp" # Replace with you name for tfstate. +
+  default = "my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com" # Replace with you name for tfstate. +
 }
 
 variable "sa_account" {
