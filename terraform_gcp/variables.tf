@@ -17,7 +17,7 @@ variable "sa_name" {
 }
 
 variable "sa_account" {
-  default = "my-test-account" # Replace with you service account. +
+  default = "my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com" # Replace with you service account. +
 }
 
 variable "domain" {
