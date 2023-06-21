@@ -57,5 +57,4 @@ provider "dns" {
   update {
     key_name = var.domain
   }
-} 
-
+}
