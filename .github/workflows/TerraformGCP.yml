@@ -11,12 +11,12 @@ on:
 
 env:
   GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
-  BUCKET_NAME: igorbucketgcp # Replace with you bucket name. +
-  SA_NAME: my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com  # Replace with you service account. +
-  CLUSTER_NAME: igorpostspout-clusterk8s # Replace with you cluster name (you_cluster_name-clusterk8s). +
-  REGION: us-central1 # Replace with you region. -
+  BUCKET_NAME: igorbucketgcp # Replace with you bucket name. 
+  SA_NAME: my-test-account-name@my-it-sprout-project.iam.gserviceaccount.com  # Replace with you service account. 
+  CLUSTER_NAME: igorpostspout-clusterk8s # Replace with you cluster name (you_cluster_name-clusterk8s). 
+  REGION: us-central1 # Replace with you region. 
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  REPO: IgorPostavnichiy/Wordpress-Tekton-atK8s-inGCP # Replace with you repo (user/repo). +
+  REPO: IgorPostavnichiy/Wordpress-Tekton-atK8s-inGCP # Replace with you repo (user/repo). 
 
 jobs:
   terraform-CI:
