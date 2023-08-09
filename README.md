@@ -65,8 +65,8 @@ The project is built using the following technologies:
 
 - [Tekton](https://tekton.dev/): A Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems.
 - [Kubernetes](https://kubernetes.io/): An open-source container orchestration platform for automating the deployment, scaling, and management of containerized applications.
-- [Amazon Web Services (AWS)](https://aws.amazon.com/): A suite of cloud computing services provided by Google, including compute, storage, networking, and more
-- [Microsoft Azure](https://azure.microsoft.com/): A suite of cloud computing services provided by Google, including compute, storage, networking, and more.
+- [Amazon Web Services (AWS)](https://aws.amazon.com/): Is a cloud platform provided by Amazon that provides a wide range of cloud computing resources and services.
+- [Microsoft Azure](https://azure.microsoft.com/): Is Microsoft's cloud platform. It provides the ability to develop, run applications and store data on servers located in distributed data centers.
 - [Google Cloud Platform (GCP)](https://cloud.google.com/): A suite of cloud computing services provided by Google, including compute, storage, networking, and more.
 - [WordPress](https://wordpress.org/): A popular open-source content management system (CMS) for creating websites and blogs.
 - [Terraform](https://www.terraform.io/): An open-source infrastructure as code software tool that enables you to define and provision infrastructure resources using declarative configuration files.
